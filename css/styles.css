@@ -1,0 +1,10 @@
+body{
+  background-color: #FED18C;
+}
+
+hr{
+  border-color: yellow;
+  border-style: dotted none none;
+  border-width: thick;
+  width: 5%;
+}
